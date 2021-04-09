@@ -1,3 +1,6 @@
 [submodule "BitClout"]
 	path = BitClout
 	url = https://github.com/lludo/BitClout.git
+[submodule "LudoBitClout"]
+	path = LudoBitClout
+	url = https://github.com/lludo/BitClout.git
